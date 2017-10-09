@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Thông tin nhà trường">
+        <menu>
+            <item
+                android:id="@+id/nav_account"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="Quản lý tài khoản" />
+            <item
+                android:id="@+id/nav_message"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Quản lý phản hồi" />
+            <item
+                android:id="@+id/nav_class"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="Quản lý lớp" />
+            <item
+                android:id="@+id/nav_child"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="Quản lý trẻ" />
+            <item
+                android:id="@+id/nav_camera"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="Quản lý camera" />
+        </menu>
+    </item>
+    <item android:title="Thông tin lớp học">
+        <menu>
+            <item
+                android:id="@+id/nav_schedule"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="Quản lý lịch học" />
+            <item
+                android:id="@+id/nav_menu"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="Quản lý thực đơn" />
+        </menu>
+    </item>
+    <item android:title="Bảng tin">
+        <menu>
+            <item
+                android:id="@+id/nav_story"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="Quản lý bài viết" />
+            <item
+                android:id="@+id/nav_event"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="Quản lý sự kiện" />
+            <item
+                android:id="@+id/nav_album"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="Quản lý album/ảnh" />
+        </menu>
+    </item>
+
+    <item android:title="Tài khoản">
+        <menu>
+            <item
+                android:id="@+id/nav_bill"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Thanh toán" />
+            <item
+                android:id="@+id/nav_setting"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Cài đặt" />
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Đăng xuất" />
+        </menu>
+    </item>
+
+</menu>

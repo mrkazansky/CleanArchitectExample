@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ChildHubManagement</string>
+    <string name="authorizing">Đang xác thực tài khoản ...</string>
+    <string name="login_user">Username</string>
+    <string name="login_password">Password</string>
+    <string name="txt_login">Login</string>
+    <string name="internal_storage">Internal storage</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="search_bar_title">Nhập thông tin cần tìm kiếm</string>
+    <string name="search_bar_voice">Tìm kiếm bằng giọng nói</string>
+    <string name="layout_block_account">Khóa tài khoản</string>
+    <string name="layout_call">Gọi</string>
+    <string name="layout_detail">Xem chi tiết</string>
+    <string name="code_parent">Phụ huynh :\u0020</string>
+    <string name="code_teacher">Giáo viên :\u0020</string>
+    <string name="code_driver">Tài xế :\u0020</string>
+    <string name="code_admin">Quản lý :\u0020</string>
+    <string name="code_another_user">Người dùng :\u0020</string>
+
+</resources>
